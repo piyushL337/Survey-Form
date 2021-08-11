@@ -184,4 +184,15 @@ form {
   border-radius: 2px;
   cursor: pointer;
 }
-
+/*Start footer*/
+.copyright{
+    width: 100%;
+    text-align: center;
+    /* background-color: #0f203d4b;   */
+    padding: 2rem 0;
+    position: relative;
+}
+.copyright p{
+    user-select: none;
+    font-size: 1.4rem;
+}
